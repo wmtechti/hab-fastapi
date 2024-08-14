@@ -1,0 +1,2 @@
+# DATABASE_URL=postgresql://postgres:postgres@localhost:5432/postgres?scheme=public
+DATABASE_URL="postgresql://fithabilita:habsecret@wmtechai.com:5433/fithabilita?schema=public"

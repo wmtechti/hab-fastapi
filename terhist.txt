@@ -1,0 +1,1000 @@
+  355  git config --list
+  356  npm install
+  357  npm i axios
+  358  npm run dev
+  359  npm start
+  360  npm star
+  361  npm start
+  362  npm i
+  363  pwd
+  364  cd /d
+  365  d
+  366  /d
+  367  cd /d
+  368  cd d
+  369  d:
+  370  pwd
+  371  ls -la
+  372  df -H
+  373  cd /d
+  374  pwd
+  375  cd /mnt/d
+  376  ls -la
+  377  pwd
+  378  cd /home/wmaldonado/
+  379  ls
+  380  df -H
+  381  df
+  382  pwd
+  383  ls -la
+  384  cd pro2024/
+  385  ls -la
+  386  mkdir clientes
+  387  cd clientes/
+  388  mkdir agroagenda
+  389  cd agroagenda
+  390  cd ..
+  391  ls
+  392  cd ..
+  393  ls
+  394  cd lab/
+  395  ls
+  396  mkdir gpt
+  397  cd gpt
+  398  git clone https://github.com/BuilderIO/gpt-crawler.git
+  399  ls
+  400  cd gpt-crawler/
+  401  code .
+  402  cd ..
+  403  ls -la
+  404  cd api
+  405  ls
+  406  cd fetch-data-feom-json-file/
+  407  ls
+  408  code .
+  409  node install
+  410  npm install
+  411  npm run dev
+  412  copy .env.production .env
+  413  cp .env.production .env
+  414  ls
+  415  cp .env.production .envnpx create-next-app@latest
+  416  npx create-next-app@latest
+  417  npm run dev
+  418  pwd
+  419  ls
+  420  cd pro2024/
+  421  LS
+  422  ls
+  423  cd lab
+  424  ls
+  425  mkdir nextjs
+  426  cd nextjs/
+  427  ls
+  428  git clone https://github.com/anand346/next-mysql.git
+  429  cd next-mysql/
+  430  ls
+  431  code .
+  432  ls
+  433  cd ..
+  434  ls
+  435  rm -Rf ./next-mysql/
+  436  ls
+  437  git https://github.com/anand346/next-mysql.git
+  438  git clone https://github.com/anand346/next-mysql.git
+  439  ls
+  440  cd next-mysql/
+  441  code .
+  442  npm install
+  443  npm run dev
+  444  pwd
+  445  ls
+  446  cd pro2024/
+  447  ls
+  448  cd lab/
+  449  ls
+  450  cd nextjs
+  451  ls
+  452  mkdir form
+  453  cd form/
+  454  npx create-next-app@latest
+  455  ls
+  456  cd my-app/
+  457  code .
+  458  ls
+  459  cd pro2024/
+  460  ls
+  461  cd lab
+  462  ls
+  463  mkdir saas
+  464  cd saas/
+  465  ls
+  466  mkdir vibedev
+  467  cd vibedev/
+  468  yarn
+  469  yarn create next-app micro-saas-todo-app
+  470  sudo apt install yarn]
+  471  sudo apt install yarn
+  472  yarn create next-app micro-saas-todo-app
+  473  sudo update
+  474  sudo npm install --global yarn
+  475  yarn --version
+  476  yarn create next-app micro-saas-todo-app
+  477  sudo apt install cmdtest
+  478  yarn create next-app micro-saas-todo-app
+  479  sudo apt remove cmdtest --purge
+  480  yarn
+  481  clear
+  482  yarn --version
+  483  sudo corepack enable
+  484  node --version
+  485  nmp --version
+  486  npm --version
+  487  node --version
+  488  sudo apt update
+  489  sudo apt install yarn
+  490  yarn --version
+  491  yarn create next-app micro-saas-todo-app
+  492  sudo yarn create next-app micro-saas-todo-app
+  493  node --version
+  494  clear
+  495  git --version
+  496  nvm -v
+  497  nvm list-remote
+  498  node -v
+  499  sudo yarn create next-app micro-saas-todo-app
+  500  nvm install v21.6.2
+  501  nvm use v21.6.2
+  502  nvm list-remoteclear
+  503  cls
+  504  npm i react-hook-form
+  505  npm install next-auth@beta
+  506  npx shadcn-ui@latest init
+  507  npx shadcn-ui@latest add
+  508  npm run dev
+  509  npm i next-auth
+  510  npm install next-auth@beta
+  511  npm i prisma
+  512  npm install prisma --save-dev
+  513  npm i prisma
+  514  npm install prisma --save-dev
+  515  npx prisma init
+  516  node -v
+  517  nvm list-remoteclear
+  518  sudo yarn create next-app micro-saas-todo-app
+  519  nvm list-remoteclear
+  520  nvm list-remote
+  521  clkear
+  522  clear
+  523  nvm list-remote
+  524  nvm install v21.7.0
+  525  sudo yarn create next-app micro-saas-todo-app
+  526  sudo yarn create-next-app micro-saas-todo-app
+  527  ls
+  528  cd pro2024/
+  529  cd lab/
+  530  ls
+  531  cd saas/
+  532  ls
+  533  cd vibedev/
+  534  ls
+  535  npx create-next-app micro-saas-todo-app
+  536  ls
+  537  cd micro-saas-todo-app/
+  538  code .
+  539  pwd
+  540  npx prisma migrate dev --name init
+  541  npm install @auth/prisma-adapter
+  542  npm i nodemailer
+  543  npm run dev
+  544  npm run dev
+  545  npx shadcn-ui@latest init
+  546  npx shadcn-ui@latest add
+  547  npm run dev
+  548  npm install gsap
+  549  npm run dev
+  550  yarn dev
+  551  npm run dev
+  552  npm install react-hook-form
+  553  npm run dev
+  554  yarn next-auth@beta
+  555  sudo apt install cmdtest
+  556  yarn add next-auth@beta
+  557  npm i next-auth
+  558  npm install next-auth@beta
+  559  npx shadcn-ui@latest add
+  560  sudo npx shadcn-ui@latest add
+  561  ls -la
+  562  npx shadcn-ui@latest add
+  563  npx shadcn-ui@latest init
+  564  sudo npx shadcn-ui@latest init
+  565  sudo npx shadcn-ui@latest add
+  566  npx shadcn-ui@latest init
+  567  npm i shadcn-ui
+  568  npx shadcn-ui@latest init
+  569  npx create-next-app@latest my-app --typescript --tailwind --eslint
+  570  ls
+  571  cd micro-saas-todo-app/
+  572  ls
+  573  cd ..
+  574  pwd
+  575  ls
+  576  cd micro-saas-todo-app/
+  577  ls
+  578  npx shadcn-ui@latest init
+  579  cd pro2024/
+  580  ls
+  581  cd lab/
+  582  ls
+  583  cd saas/
+  584  ls
+  585  cd vibedev/
+  586  ls
+  587  mkdir temp
+  588  cd temp
+  589  ls
+  590  npx create-next-app micro-saas-todo-app
+  591  code .
+  592  cd ..
+  593  ls -la
+  594  rm -Rf ./temp/
+  595  mkdir temp2
+  596  cd temp2/
+  597  ls
+  598  npx create-next-app micro-saas-todo-app2
+  599  ls
+  600  cd micro-saas-todo-app2/
+  601  code .
+  602  npm run dev
+  603  nixpacks
+  604  ls -la
+  605  nixpacks . --name habilitafit
+  606  nixpacks ./ --name habilitafit
+  607  cd ..
+  608  nixpacks ./micro-saas-todo-app2/ --name habilitafit
+  609  nixpacks ./micro-saas-todo-app2 --name habilitafit
+  610  cd 
+  611  nixpacks ./src/app --name habilitafit
+  612  nixpacks ./src/app/app --name habilitafit
+  613  nixpacks build ./src/app/app --name habilitafit
+  614  cd ..
+  615  nixpacks build ./micro-saas-todo-app2/ --name habilitafit
+  616  ls -la
+  617  cd micro-saas-todo-app2/
+  618  ls
+  619  ls -la
+  620  cd ..
+  621  ls -la
+  622  cd micro-saas-todo-app2/
+  623  ls -la
+  624  cd src
+  625  ls
+  626  cd app
+  627  ls
+  628  cd ap
+  629  cd app
+  630  pwd
+  631  ls -la
+  632  cd ..
+  633  ]cd ..
+  634  ls -la
+  635  ls
+  636  cd pro2024/
+  637  ls
+  638  cd habilita/
+  639  ls
+  640  cd ..
+  641  cd lab/
+  642  ls
+  643  cd saas/
+  644  ls
+  645  cd vibedev/
+  646  ls
+  647  cd micro-saas-todo-app/
+  648  ls
+  649  code .
+  650  cd ..
+  651  ls
+  652  cd pro2024/
+  653  ls -la
+  654  cd lab/
+  655  ls -la
+  656  cd ..
+  657  ls
+  658  cd habilita/
+  659  ls
+  660  mkdir projeto
+  661  cd projeto/
+  662  git clone https://github.com/wmtechti/micro-saas-app.git 
+  663  git --config --list
+  664  git --config list
+  665  git config --list
+  666  npm install
+  667  ls -la
+  668  rm package-lock.json 
+  669  ls
+  670  cd micro-saas-app/
+  671  pwd
+  672  ls -la
+  673  npm install
+  674  npm run dev
+  675  nixpacks
+  676  ls
+  677  cd ..
+  678  nixpacks built ./micro-saas-app --name habilitafitI
+  679  nixpacks built ./micro-saas-app/src/app --name habilitafitI
+  680  nixpacks built ./micro-saas-app/src/app/app --name habilitafitI
+  681  nixpacks build ./micro-saas-app --name habilitafitI
+  682  nixpacks build ./micro-saas-app --name habilitafit
+  683  pwd
+  684  ls
+  685  nixpacks build ./micro-saas-app --name habilitafit
+  686  docker run -it habilitafit
+  687  ls
+  688  tar -cvzf micro-saas-app-v1.0.tar.gz ./micro-saas-app
+  689  ls -la
+  690  rm micro-saas-app-v1.0.tar.gz 
+  691  ls -la
+  692  clear
+  693  git add .
+  694  ls
+  695  cd micro-saas-app/
+  696  git add .
+  697  git commit -M "Nesta versão foi corrigido a questão do eslint. Precisa subir forçando a troca do conteudo do repo por essa. v.3.0"
+  698  git commit -m "Nesta versão foi corrigido a questão do eslint. Precisa subir forçando a troca do conteudo do repo por essa. v.3.0"
+  699  git push --force-with-lease origin main
+  700  npm run dev
+  701  ls -la
+  702  cd ..
+  703  nixpacks build ./micro-saas-todo-app2/ --name habilitafit
+  704  npm uninstall prettier --save
+  705  nixpacks build ./micro-saas-todo-app2/ --name habilitafit
+  706  npm uninstall prettier --save
+  707  nixpacks build ./micro-saas-todo-app2/ --name habilitafit
+  708  npm install
+  709  ls
+  710  rm package.json 
+  711  ls
+  712  cd micro-saas-todo-app2/
+  713  npm uninstall prettier --save
+  714  npm install
+  715  cd ..
+  716  ls
+  717  rm package-lock.json 
+  718  ls
+  719  nixpacks build ./micro-saas-todo-app2/ --name habilitafit
+  720  dir
+  721  cd micro-saas-todo-app2/
+  722  ls
+  723  cd ..
+  724  dir
+  725  ld
+  726  ls
+  727  cd micro-saas-todo-app2/
+  728  npm uninstall prettier --save
+  729  npm install
+  730  npm uninstall eslint eslint-config-airbnb eslint-plugin-react
+  731  npm install
+  732  ls
+  733  cd ..
+  734  nixpacks build ./micro-saas-todo-app2/ --name habilitafit
+  735  ls
+  736  docker run -it habilitafit
+  737  ls
+  738  cd micro-saas-todo-app2/
+  739  git add .
+  740  git commit -m "versão sem o eslint e prettierr. v2.0"
+  741  git push origin main
+  742  git config --list
+  743  git push origin main
+  744  git pull origin main
+  745  git config pull.rebase false
+  746  git pull origin main
+  747  ls -la
+  748  cd pro2024/
+  749  ls -la
+  750  cd lab/
+  751  ls
+  752  cd ..
+  753  ls
+  754  pwd
+  755  ls -la
+  756  cd pro2024/
+  757  ls -la
+  758  cd habilita/
+  759  ls
+  760  cd projeto/
+  761  ls
+  762  ls -la
+  763  sudo apt install git
+  764  git config --global user.name "Waldemar Maldonado"
+  765  git config --global user.email "wmtechti@gmail.com"
+  766  git clone https://github.com/wmtechti/micro-saas-app.git
+  767  git --version
+  768  ssh-keygen -t rsa -b 4096 -C "wmtechti"
+  769  ls
+  770  code ~/.ssh/id_rsa.pub 
+  771  ssh -T git@github.com
+  772  git clone https://github.com/wmtechti/micro-saas-app.git
+  773  git clone git@github.com:wmtechti/micro-saas-app.git
+  774  ls
+  775  ls -la
+  776  code .
+  777  ls /tmp
+  778  ls -la /tmp
+  779  df 
+  780  ls -la /tmp
+  781  rm -rf /tmp/*
+  782  df -h
+  783  df -ht /home
+  784  du /home/user/Desktop/
+  785  cd /var
+  786  du -h | grep -v "\./.+/" | sort -h
+  787  ls
+  788  cd log
+  789  ls
+  790  ls -la
+  791  rm lastlog 
+  792  sudo su rm lastlog 
+  793  cd /
+  794  pwd
+  795  find / -size +1G
+  796  sudo su find / -size +1G
+  797  sudo find / -size +1G
+  798  sudo su
+  799  sudo find / -size +5G
+  800  find /caminho/da/pesquisa -mtime n
+  801  find / -mtime 1
+  802  find / -mtime 1 | grep -size +1G
+  803  cd /mnt/c/PerfLogs/
+  804  ls -la
+  805  ls
+  806  sudo 
+  807  sudo su
+  808  find ./ -mtime 1 | grep -size +1G
+  809  find . -mtime 1 | grep -size +1G
+  810  find ./* -mtime 1 | grep -size +1G
+  811  ls
+  812  cd /
+  813  find ./* -mtime 1 | grep -size +1G
+  814  clear
+  815  npm rum dev
+  816  ls -la
+  817  cd micro-saas-app/
+  818  npm run dev
+  819  npx prisma
+  820  docker-compose up -d
+  821  ls
+  822  ls -la
+  823  docker-compose up -d
+  824  ls -la
+  825  docker-compose up -d
+  826  docker ps
+  827  npx prisma --help
+  828  npx prisma init --help
+  829  npx prisma
+  830  prisma db pull
+  831  npx prisma db pull
+  832  ls -la
+  833  cd micro-saas-app/
+  834  ls -la
+  835  prisma db pull
+  836  npx prisma db pull
+  837  npx prisma db introspect
+  838  prisma db pull
+  839  NPX prisma db pull
+  840  npx prisma db pull
+  841  pisma db pull
+  842  prisma db pull
+  843  npx prisma db introspect
+  844  prisma db pull
+  845  npm install prisma
+  846  prisma
+  847  npx prisma --init
+  848  prisma
+  849  ls
+  850  prisma db pull
+  851  npx prisma db pull
+  852  npx prisma migrate
+  853  npx prisma db pull
+  854  npx prisma migrate
+  855  npx prisma db pull
+  856  npx prisma generate
+  857  npx prisma db pull
+  858  npm run dev
+  859  pwd
+  860  ls
+  861  cd micro-saas-app/
+  862  npm run dev
+  863  npx prisma migrate
+  864  prisma migrate diff
+  865  npx prisma migrate diff
+  866  npx prisma migrate dev
+  867  npm run dev
+  868  npx prisma migrate dev
+  869  npm run dev
+  870  npm install --save next react react-dom @nivo/bar
+  871  npm run dev
+  872  ls
+  873  cd micro-saas-app/
+  874  ls
+  875  npm run dev
+  876  git add .
+  877  git commit -m "passou para versão 6.0 por conta da mudança de bd para postres e implementações da lista e detalhes de alunos"
+  878  git push origin main
+  879  npm install react-router-dom
+  880  git add .
+  881  git commit -m "v 6.0.1 - estado original antes da implementação das rotas e navegação entre lista e detalhe de aluno."
+  882  git push origin main
+  883  npm run dev
+  884  npx prisma migrate dev
+  885  npm run dev
+  886  git add .
+  887  git commit -m "v.6.1 - Implementado a navegação entre lista de alunos e detalhes."
+  888  git push origin main
+  889  pwd
+  890  ls -la
+  891  df
+  892  cd /mnt/f
+  893  ls -la
+  894  node -v
+  895  mkdir teste
+  896  cd teste
+  897  code .
+  898  node -v
+  899  npm run dev
+  900  pwd
+  901  npm install
+  902  node example.js
+  903  ls -la
+  904  node example.js
+  905  NODE INEXE.JS
+  906  node index.js
+  907  node tranasf.js 
+  908  pwd
+  909  node transform.js 
+  910  node -v
+  911  ls -la
+  912  cd pro2024/
+  913  ls -la
+  914  cd habilita/
+  915  ls
+  916  cd projeto/
+  917  ls
+  918  cd micro-saas-app/
+  919  code .
+  920  cd ..
+  921  ls
+  922  cd ..
+  923  pwd
+  924  ls -la
+  925  docker
+  926  docker ps
+  927  pwd
+  928  ls -la
+  929  cd pro2024
+  930  ls- la
+  931  ls - -la
+  932  ls -la
+  933  cd habilita
+  934  ls -la
+  935  git clone https://github.com/pedroslopez/whatsapp-web.js.git whatsapp-web
+  936  cd whatsapp-web/
+  937  ls -la
+  938  code .
+  939  sudo apt-get update
+  940  sudo apt-get install libnss3
+  941  git pull origin main
+  942  PWD
+  943  docker ps
+  944  python3 -m venv env
+  945  apt install python3.10-venv
+  946  sudo apt install python3.10-venv
+  947  python3 -m venv env
+  948  source env/bin/activate
+  949  pip install fastapi uvicorn
+  950  pip install -r requirements.txt 
+  951  pwd
+  952  ls -la
+  953  npx prisma db pull
+  954  which prisma
+  955  prisma
+  956  prisma db pull
+  957  prisma generate
+  958  clear
+  959  uvicorn main:app --reload --port=8000 --host=0.0.0.0
+  960  ls -la
+  961  uvicorn main:app --reload
+  962  uvicorn main:app --reload --port=8000
+  963  uvicorn main:app --reload --port=8000 --host=0.0.0.0
+  964  docker compose uop --build
+  965  docker compose up --build
+  966  ls -la
+  967  docker compose up --build
+  968  prisma generate
+  969  docker compose up --build
+  970  pip install prisma
+  971  prisma generate
+  972  npm install -g prisma
+  973  docker compose up --build
+  974  prisma db pull
+  975  prisma generate
+  976  docker compose up --build
+  977  pip install prisma
+  978  docker compose up --build
+  979  uvicorn main:app --reload --port=8000 --host=0.0.0.0
+  980  docker compose up --build
+  981  DEACTIVATE
+  982  deactivate
+  983  pip install -r requirements.txt
+  984  pip install prisma
+  985  ls -la
+  986  prisma db pull
+  987  docker compose up --build
+  988  uvicorn main:app --reload --port=8000 --host=0.0.0.0
+  989  docker compose up --build
+  990  ls -la
+  991  docker compose up --build
+  992  uvicorn main:app --reload --port=8000 --host=0.0.0.0
+  993  sudo apt install uvicorn
+  994  uvicorn main:app --reload --port=8000 --host=0.0.0.0
+  995  sh -c uvicorn main:app --reload --port=8000 --host=0.0.0.0
+  996  sh -c "uvicorn main:app --reload --port=8000 --host=0.0.0.0"
+  997  docker compose up --build
+  998  docker compose up -d
+  999  ls -la
+ 1000  docker compose up --build
+ 1001  docker images
+ 1002  docker images ls
+ 1003  docker images
+ 1004  ls
+ 1005  cd ..
+ 1006  mkdir docker
+ 1007  cd docker/
+ 1008  mkdir images
+ 1009  cd om,ages
+ 1010  cd images
+ 1011  docker images
+ 1012  docker image pull
+ 1013  docker image pull prisma_fastapi-web/latest
+ 1014  sudo docker image pull prisma_fastapi-web/latest
+ 1015  docker images
+ 1016  docker login
+ 1017  sudo docker image pull prisma_fastapi-web/latest
+ 1018  cd ..
+ 1019  ls -la
+ 1020  cd prisma_fastapi/
+ 1021  ls -la
+ 1022  docker built -t prisma_fastapi .
+ 1023  docker build -t prisma_fastapi .
+ 1024  ls -la
+ 1025  docker images
+ 1026  docker image tag habilita/prisma-fastapi
+ 1027  docker image tag prisma_fastapi habilita/prisma_fastapi
+ 1028  docker images
+ 1029  docker pull habilitar/prisma_Fastapi
+ 1030  docker pull habilita/prisma_fastapi
+ 1031  docker push habilita/prisma_fastapi
+ 1032  docker login
+ 1033  docker --config ~/testconfigs/ ps
+ 1034  docker images
+ 1035  docker push prisma_fastapi
+ 1036  docker login
+ 1037  docker push wmtechti/wmtechti prisma_fastapi
+ 1038  docker push prisma_fastapi .
+ 1039  docker push prisma_fastapi 
+ 1040  docker login
+ 1041  docker
+ 1042  docker logout
+ 1043  docker login
+ 1044  docker push prisma_fastapi 
+ 1045  docker images
+ 1046  docker push prisma_fastapi 
+ 1047  docker images
+ 1048  docker tag prisma_fastapi wmtechti/wmtechti:lastest
+ 1049  docker images
+ 1050  docker push wmtechti/wmtechti:lastest
+ 1051  docker compose ud -d
+ 1052  docker compose up -d
+ 1053  ls -la
+ 1054  docker build -t wmtechti/wmtechti:latest .
+ 1055  docker login
+ 1056  docker push wmtechti/wmtechti:latest
+ 1057  docker-compose up
+ 1058  docker build -t wmtechti/wmtechti:latest .
+ 1059  docker push wmtechti/wmtechti:latest
+ 1060  docker-compose up -d
+ 1061  docker build -t wmtechti/wmtechti:latest .
+ 1062  docker push wmtechti/wmtechti:latest
+ 1063  docker-compose up -d
+ 1064  python /home/wmaldonado/.vscode-server/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /home/wmaldonado/.vscode-server/extensions/ms-python.python-2024.4.1/python_files/deactivate/bash/envVars.txt
+ 1065  ls
+ 1066  source ./.venv/bin/activate
+ 1067  source .venv/bin/activate
+ 1068  python -m venv .
+ 1069  python3 -m venv .
+ 1070  python3 -m venv .venv
+ 1071  source .venv/bin/activate
+ 1072  ls
+ 1073  chmod +x ./setup/create-llama2-model-file.sh 
+ 1074  ./setup/create-llama2-model-file.sh 
+ 1075  ls
+ 1076  ./setup/create-llama2-model-file.sh 
+ 1077  cd setup/
+ 1078  ./create-llama2-model-file.sh 
+ 1079  ls
+ 1080  ./create-llama2-model-file.sh 
+ 1081  chmod +x ./create-llama2-model-file.sh 
+ 1082  ./create-llama2-model-file.sh 
+ 1083  ls
+ 1084  poetry run python main.py
+ 1085  pip install dotenv
+ 1086  python main.py
+ 1087  python3 main.py
+ 1088  python -m venv .
+ 1089  python3 -m venv .
+ 1090  python3 -m venv .venv
+ 1091  source .env/bin/activate
+ 1092  ls -la
+ 1093  source .venv/bin/activat
+ 1094  poetry install --no-root
+ 1095  sudo apt install python3-poetry
+ 1096  python main.py
+ 1097  python3 main.py
+ 1098  ls
+ 1099  pip install crewai
+ 1100  ollama list
+ 1101  pip install 'crewai[tools]'
+ 1102  poetry install --no-root
+ 1103  poetry lock
+ 1104  poetry self update
+ 1105  poetry --version
+ 1106  rm poetry.lock
+ 1107  poetry lock
+ 1108  poetry install --no-root
+ 1109  python main.py 
+ 1110  conda
+ 1111  /bin/python3 /home/wmaldonado/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/wmaldonado/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+ 1112  python.3.12 -m venv ProjectCrewAI
+ 1113  python3 -m venv ProjectCrewAI
+ 1114  ls -la
+ 1115  cd ..
+ 1116  ls -la
+ 1117  python -m venv ProjectCrewAI
+ 1118  cd ~/ProjectCrewAI
+ 1119  ls
+ 1120  cd ProjectCrewAI/
+ 1121  ls -la
+ 1122  cd bin
+ 1123  ls -la
+ 1124  source ./activate
+ 1125  ls -la ~/home
+ 1126  ls -la
+ 1127  cd ..
+ 1128  pwd
+ 1129  cd ..
+ 1130  ls -la
+ 1131  rm -Rf ProjectCrewAI/
+ 1132  python 3.12 -m venv ProjectCrewAI
+ 1133  python 3.12.3 -m venv ProjectCrewAI
+ 1134  python3.12 -m venv ProjectCrewAI
+ 1135  ls -la
+ 1136  /bin/python3 /home/wmaldonado/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/wmaldonado/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+ 1137  python3 -m venv .venvinsta
+ 1138  source .venvinsta/bin/activate
+ 1139  poetry install --no-root
+ 1140  poetry lock
+ 1141  python main.py 
+ 1142  pip install crewai
+ 1143  pip install 'crewai[tools]'
+ 1144  python main.py 
+ 1145  pip install unstructured
+ 1146  python main.py 
+ 1147  python3 mian.py
+ 1148  python3 main.py
+ 1149  pip install -U langchain-community
+ 1150  pip uninstall langchain langchain-openai crewai
+ 1151  pip install langchain<0.2.0
+ 1152  pip install langchain langchain_openai crewai
+ 1153  pip install 'crewai[tools]'
+ 1154  python3 main.py
+ 1155  pip install -U langchain-community
+ 1156  pip install crewai
+ 1157  python3 main.py
+ 1158  ls -la
+ 1159  python3 main.py
+ 1160  cd setup/
+ 1161  chmod +x scriptfile.sh 
+ 1162  sh scriptfile.sh 
+ 1163  cd ..
+ 1164  ls -la
+ 1165  python3 main.py
+ 1166  pip install scrapingant-client
+ 1167  python3 main.py
+ 1168  cd setup/
+ 1169  chmod +x openllama3-crew-ModelFile 
+ 1170  sh openllama3-crew-Mode
+ 1171  ls -la
+ 1172  sh scriptfilellama3.sh 
+ 1173  ollama list
+ 1174  sh scriptfilellama3.sh 
+ 1175  python3 main.py
+ 1176  cd ..
+ 1177  python3 main.py
+ 1178  pip install -U langchain-community
+ 1179  python3 main.py
+ 1180  pip install langchain-cli
+ 1181  langchain-cli --version # <-- Make sure the version is at least 0.0.22
+ 1182  python3 main.py
+ 1183  pip install -U langchain-community
+ 1184  pip show langchain-community
+ 1185  python3 main.py
+ 1186  ollama list
+ 1187  python3 main.py
+ 1188  ollama pull llama3
+ 1189  ollama list
+ 1190  python3 main.py
+ 1191  pip install crewai
+ 1192  nvidia-smi
+ 1193  pip install langchain
+ 1194  pip install langchain-core
+ 1195  pip install langchain-community
+ 1196  python3 main.py
+ 1197  python3 postinsta.py 
+ 1198  pwd
+ 1199  clear
+ 1200  conda
+ 1201  conda create --name instagram python=3.11
+ 1202  conda activate instagram
+ 1203  pip install crewai
+ 1204  pip install poetry
+ 1205  poetry lock
+ 1206  poetry install
+ 1207  poetry run instagram
+ 1208  poetry lock
+ 1209  poetry install
+ 1210  poetry run instagram
+ 1211  clear
+ 1212  poetry run instagram
+ 1213  ls -la
+ 1214  cd setup/
+ 1215  ls -la
+ 1216  chmod +x scriptfile.sh 
+ 1217  sh scriptfile.sh 
+ 1218  poetry run instagram
+ 1219  cd ..
+ 1220  pip install langchain_community
+ 1221  poetry run instagram
+ 1222  ollama pull llama3
+ 1223  poetry run instagram
+ 1224  python3 -m venv .venvinstagram
+ 1225  source .venvinstagram/bin/activate
+ 1226  poetry install --no-root
+ 1227  poetry lock
+ 1228  rm poetry.lock
+ 1229  poetry lock
+ 1230  poetry install --no-root
+ 1231  python main.py
+ 1232  pip install dotenv
+ 1233  python main.py
+ 1234  poetry add python-dotenv
+ 1235  poetry update package
+ 1236  python main.py
+ 1237  poetry run mian.py
+ 1238  poetry run .venv
+ 1239  poetry run main.py
+ 1240  python3 main.py
+ 1241  python main.py
+ 1242  poetry install --no-root
+ 1243  python main.py
+ 1244  poetry add python-dotenv
+ 1245  poetry install --no-root
+ 1246  python main.py
+ 1247  python3 main.py
+ 1248  poetry install --no-root
+ 1249  python main.py
+ 1250  pip install python-dotenv
+ 1251  python main.py
+ 1252  pip install crewai
+ 1253  python main.py
+ 1254  poetry install --no-root
+ 1255  pip install unstructured
+ 1256  python main.py
+ 1257  cd crewai-advanced-example/
+ 1258  ls -la
+ 1259  python main.py 
+ 1260  ollama list
+ 1261  python main.py 
+ 1262  /bin/python3 /home/wmaldonado/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/wmaldonado/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+ 1263  python -m venv .venvllst
+ 1264  source .venv/bin/activat
+ 1265  source .venvllst/bin/activat
+ 1266  ls -la
+ 1267  source .venvllst/bin/activate
+ 1268  poetry install --no-root
+ 1269  pip install poetry
+ 1270  poetry install --no-root
+ 1271  poetry
+ 1272  poetry init
+ 1273  poetry lock
+ 1274  poetry install --no-root
+ 1275  streamlit run streamlit_app.py
+ 1276  pip install streamlit
+ 1277  streamlit run streamlit_app.py
+ 1278  pip install decouple
+ 1279  streamlit run streamlit_app.py
+ 1280  pip install python-decouple
+ 1281  streamlit run streamlit_app.py
+ 1282  cd bin/
+ 1283  source ./activate
+ 1284  ls -la
+ 1285  pip install crewai
+ 1286  pip install 'crewai[tools]'
+ 1287  mkdir project1
+ 1288  cd project1
+ 1289  nano mistral-crew-ModelFile
+ 1290  LS -LA
+ 1291  ls -la
+ 1292  nano scriptfile.sh
+ 1293  sh scriptfile.sh 
+ 1294  nano mistral-agents.py
+ 1295  ls -la
+ 1296  python mistral-agents.py 
+ 1297  time
+ 1298  python mistral-agents.py 
+ 1299  /bin/python3 /home/wmaldonado/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/wmaldonado/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+ 1300  python3 -m venv .venvllm
+ 1301  source .venvllm/bin/activate
+ 1302  chmod +x ./setup/create-llama2-model-file.sh 
+ 1303  cd setup
+ 1304  ls
+ 1305  ./create-llama2-model-file.sh
+ 1306  ollama list
+ 1307  chmod +x ./create-llama2-model-file.sh 
+ 1308  chmod +x ./create-mistral-model-file.sh 
+ 1309  ./create-mistral-model-file.sh 
+ 1310  ollama list
+ 1311  poetry run main.py
+ 1312  poetry run .venv
+ 1313  clear
+ 1314  cd ..
+ 1315  cd crewai-advanced-example/
+ 1316  python main.py 
+ 1317  cd ..
+ 1318  cd setup/
+ 1319  ls
+ 1320  chmod +x create-llama2-model-file.sh 
+ 1321  chmod +x create-mistral-model-file.sh 
+ 1322  sh create-llama2-model-file.sh 
+ 1323  sh create-mistral-model-file.sh 
+ 1324  cd ..
+ 1325  cd crewai-advanced-example/
+ 1326  pip install crewai
+ 1327  pip install 'crewai[tools]'
+ 1328  poetry install --no-root
+ 1329  poetry rm poetry.lock
+ 1330  rm poetry.lock
+ 1331  poetry
+ 1332  poetry remove poetry.lock
+ 1333  poetry 
+ 1334  poetry install
+ 1335  python main.py 
+ 1336  ls-la
+ 1337* 
+ 1338  python main.py 
+ 1339  cd ..
+ 1340  cd setup/
+ 1341  ls
+ 1342  chmod +x create-llama3-model-file.sh 
+ 1343  sh. create-llama3-model-file.sh 
+ 1344  sh create-llama3-model-file.sh 
+ 1345  cd ..
+ 1346  cd crewai-advanced-example/
+ 1347  ls
+ 1348  python main.py 
+ 1349  cd fastapp/
+ 1350  docker-compose up
+ 1351  htpasswd
+ 1352  docker-compose up
+ 1353  docker build -t wmtechti/wmtechti:latest .
+ 1354  history > terhist.txt
