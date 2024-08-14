@@ -1,39 +1,32 @@
-# Use uma imagem base com Python 3.10
-FROM python:3.10-slim
+# Etapa 1: Construção
+FROM python:3.11-slim as build
 
-# Defina o diretório de trabalho
+# Definir diretório de trabalho
 WORKDIR /app
 
-# Copie o arquivo .env
-COPY .envprod .env
+# Copiar os arquivos de requirements para o contêiner
+COPY requirements.txt .
 
-# Copie todos os arquivos do diretório atual para o diretório de trabalho
-COPY . /app
+# Instalar as dependências
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Crie o diretório prisma e copie o schema.prisma
-# RUN mkdir prisma
-COPY prisma/schema.prisma prisma/
+# Copiar o restante da aplicação para o contêiner
+COPY . .
 
-# Instale as dependências do Python
-RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+# Etapa 2: Execução
+FROM python:3.11-slim
 
-# Instale o Node.js e npm
-# RUN apt-get update && apt-get install -y curl
-# RUN curl -sL https://deb.nodesource.com/setup_16.x | bash -
-# RUN apt-get install -y nodejs
+# Definir diretório de trabalho
+WORKDIR /app
 
-# Instale o Prisma CLI globalmente
-# RUN npm install -g prisma
+# Copiar as dependências instaladas da fase de build
+COPY --from=build /usr/local/lib/python3.11/site-packages /usr/local/lib/python3.11/site-packages
 
-# Gere o Prisma Client
-RUN prisma generate
+# Copiar o código da aplicação
+COPY --from=build /app /app
 
-# Comando padrão para rodar o container
-# CMD ["python", "seu_script.py"]
+# Expor a porta em que o FastAPI vai rodar
+EXPOSE 8000
 
-# Comando para rodar a aplicação FastAPI
-# CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
-
-# If running behind a proxy like Nginx or Traefik add --proxy-headers
-CMD ["fastapi", "run", "app/main.py", "--port", "80", "--proxy-headers"]
+# Comando para iniciar a aplicação
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
